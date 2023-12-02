@@ -1,0 +1,4 @@
+﻿  6-1.c
+C:\Users\JINSEOK\source\repos\20202719학번 (염진석)\6-1\6-1.c(25,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\JINSEOK\source\repos\20202719학번 (염진석)\6-1\6-1.c(25,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+  6-1.vcxproj -> C:\Users\JINSEOK\source\repos\20202719학번 (염진석)\x64\Debug\6-1.exe
